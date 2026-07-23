@@ -53,8 +53,8 @@ The platform is cleanly separated into a robust backend API and a dynamic React 
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/sachin-185/AI-Powered-Corporate-Insights-Platform.git
-cd AI-Powered-Corporate-Insights-Platform
+git clone https://github.com/sachin-185/SmartCorp-AI-Corporate-Insights.git
+cd SmartCorp-AI-Corporate-Insights
 ```
 
 **2. Setup Backend**
